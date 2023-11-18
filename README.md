@@ -8,4 +8,4 @@
 - DB_USER=\<user name in mongoDB\>
 - DB_PASSWORD=\<user password in mongoDB\>
 - DB_NAME="cars"
-- DB_URL="<cluser name>.<cluster id>.mongodb.net"
+- DB_URL="\<cluser name\>.\<cluster id\>.mongodb.net"
