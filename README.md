@@ -1,3 +1,6 @@
+#### dependencies
+-  [Node.js]([https://www.mongodb.com/](https://nodejs.org/en/download/))
+
 #### commands
 1. `npm install`
 2. `npm run devStart`
@@ -5,7 +8,7 @@
 ### optional: install "Thunder Client" extension in VSCode
 
 ### mongoDB setup
-Go to [mongo ](https://www.mongodb.com/), click `Try Free`, proceed with registration. Create new free database cluster deployment.
+Go to [mongo DB](https://www.mongodb.com/), click `Try Free`, proceed with registration. Create new free database cluster deployment.
 ![image](https://github.com/jakubedzior/wsb-backend-sem-2/assets/63008584/d5b21ae5-01bd-41bc-aaf8-37297708c332)
 
 Next to the cluster name click `Connect` button, choose `Device` and view the following URL details that you will need in the `.env` file.
